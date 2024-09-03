@@ -1,8 +1,3 @@
-# React + Vite
+# Regitro para mantenimiento de vehículos
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+En este pequeño proyecto se implementó de forma sencilla una opción para que el usuario pueda registrar dinámicamente tantos vehículos como desee para mantenimiento. El usuario deberá completar ciertos datos, los cuales se guardarán en la memoria y se mostrarán en la página principal. Para lograr esto, se utilizaron props y hooks.
