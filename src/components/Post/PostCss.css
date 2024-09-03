@@ -1,0 +1,29 @@
+
+#carta{
+    background-color:antiquewhite;
+    padding: 10px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.styleDivPost1{
+    display: flex;
+    align-items: center;    
+    height: 30px;
+}
+.styleDivPost2{
+    display: flex;
+    align-items: center;    
+}
+
+.styleDivPost2 p{
+    padding-right: 60px;
+    padding-left: 10px;
+}
+
+.Dueño{
+    font-size: 26px;
+    padding-left: 10px;
+    
+}
